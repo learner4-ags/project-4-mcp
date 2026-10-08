@@ -1,1 +1,1 @@
-{"servers":{"hpe-contracts":{"type":"stdio","command":"<ABSOLUTE_PATH_TO_REPO>\\.venv\\Scripts\\python.exe","args":["<ABSOLUTE_PATH_TO_REPO>\\mcp_server\\server.py"]}}}
+{"servers":{"hpe-contracts":{"type":"stdio","command":"C:\\Users\\nagayech\\Downloads\\Project4_MCP_Resources_Custom\\.venv\\Scripts\\python.exe","args":["C:\\Users\\nagayech\\Downloads\\Project4_MCP_Resources_Custom\\mcp_server\\server.py"]}}}
