@@ -1,0 +1,14 @@
+{
+  "name": "ThermalReadingV2",
+  "fields": {
+    "Sensor": "string",
+    "ReadingCelsius": "number",
+    "Health": "OK|Warning|Critical"
+  },
+  "health_rules": {
+    "OK": "<75",
+    "Warning": "75-84.9",
+    "Critical": ">=85"
+  },
+  "compatibility_note": "TempC is deprecated and should not be emitted by v2."
+}

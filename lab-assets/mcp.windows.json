@@ -1,0 +1,1 @@
+{"servers":{"hpe-contracts":{"type":"stdio","command":"<ABSOLUTE_PATH_TO_REPO>\\.venv\\Scripts\\python.exe","args":["<ABSOLUTE_PATH_TO_REPO>\\mcp_server\\server.py"]}}}
